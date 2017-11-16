@@ -124,6 +124,7 @@ div > section{
   justify-content: center;
   margin-left: 13vw;
   margin-right: 13vw;
+  margin-top: 3vh;
 }
 .brian{
   float: left;
