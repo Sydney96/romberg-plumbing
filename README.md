@@ -12,10 +12,10 @@
 
 
 ## Styled
-- [ ] Main page
-- [ ] Services offered on main page
-- [ ] Contact information
-- [ ] Navigation
-- [ ] Logo
+- [x] Main page
+- [x] Services offered on main page
+- [x] Contact information
+- [x] Navigation
+- [x] Logo
 - [ ] Reviews page
 - [ ] About us page
