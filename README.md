@@ -17,5 +17,5 @@
 - [x] Contact information
 - [x] Navigation
 - [x] Logo
-- [ ] Reviews page
+- [x] Reviews page
 - [ ] About us page
